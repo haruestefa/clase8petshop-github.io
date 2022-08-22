@@ -1,0 +1,92 @@
+ul {
+    list-style: none;
+}
+
+section {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    background: #F0A83E;
+    color: white;
+}
+
+.churrasco {
+    background-image: url(../img/churrasquito.png);
+    height: 300px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: #fbfaf5;
+
+}
+
+.churrasco-texto {
+    padding-top: 230px;
+}
+
+.precio {
+    color: orange;
+    opacity: 0.7;
+}
+
+footer {
+    background: #3C2313;
+
+}
+
+.front {
+    background-color: #F0A83E;
+    color: white;
+    text-align: center;
+}
+
+.comida {
+    text-align: center;
+
+}
+
+.comida-imagen {
+    background-image: url(../img/plato.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    
+}
+
+
+.descuento {
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.comederos2 {
+   background-color: #F0A83E;
+    color: white;
+
+}
+
+.comida-titulo {
+    margin: 0px;
+    color: #3C2313;
+
+}
+
+.huellita {
+    list-style-image: url(../img/huellita.png)
+}
+
+.productos {
+    color: #3C2313;
+}
+
+.titulos-footer {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.gris {
+    color: #8A8787;
+}
